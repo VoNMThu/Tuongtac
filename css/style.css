@@ -51,7 +51,6 @@ div{
     }
     img {
         width: 100%;
-
     }
 }
 
@@ -70,13 +69,12 @@ div{
     }
 }
 
-@media screen and (min-width: 998px) {
+@media screen and (min-width: 999px) {
     div {
         width: 30vw;
     }
     img {
         width: 100%;
-
     }
 }
 
